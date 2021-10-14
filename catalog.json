@@ -1,0 +1,64 @@
+[
+    {
+        "title": "Shirt",
+        "price": 150,
+        "image": "images/item.jpg"
+    },
+    {
+        "title": "Socks",
+        "price": 50,
+        "image": "images/item.jpg"
+    },
+    {
+        "title": "Jacket",
+        "price": 350,
+        "image": "images/item.jpg"
+    },
+    {
+        "title": "Shoes",
+        "price": 250,
+        "image": "images/item.jpg"
+    },
+    {
+        "title": "Shirt",
+        "price": 150,
+        "image": "images/item.jpg"
+    },
+    {
+        "title": "Socks",
+        "price": 50,
+        "image": "images/item.jpg"
+    },
+    {
+        "title": "Jacket",
+        "price": 350,
+        "image": "images/item.jpg"
+    },
+    {
+        "title": "Shoes",
+        "price": 250,
+        "image": "images/item.jpg"
+    },
+    {
+        "title": "Shirt",
+        "price": 150,
+        "image": "images/item.jpg"
+    },
+    {
+        "title": "Socks",
+        "price": 50,
+        "image": "images/item.jpg"
+    },
+    {
+        "title": "Jacket",
+        "price": 350,
+        "image": "images/item.jpg"
+    },
+    {
+        "title": "Shoes",
+        "price": 250,
+        "image": "images/item.jpg"
+    },
+    {},
+    {}
+]
