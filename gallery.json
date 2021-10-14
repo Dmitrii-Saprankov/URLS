@@ -1,0 +1,22 @@
+[
+    {
+        "name": "Mountain lake",
+        "image": "images/pic1.jpg"
+    },
+    {
+        "name": "Mountain river",
+        "image": "images/pic2.jpg"
+    },
+    {
+        "name": "Mirror lake",
+        "image": "images/pic3.jpg"
+    },
+    {
+        "name": "Cold mountain lake",
+        "image": "images/pic4.jpg"
+    },
+    {
+        "name": "Mountain forrest lake",
+        "image": "images/pic5.jpg"
+    }
+]
